@@ -1,0 +1,348 @@
+Sale Date,Order ID,Number of Items,Payment Method,Date Shipped,Ship City,Ship State,Ship Zipcode,Ship Country,Currency,Order Value,Coupon Code,Coupon Details,Discount Amount,Shipping Discount,Shipping,Sales Tax,Order Total,Status,Card Processing Fees,Order Net,Adjusted Order Total,Adjusted Card Processing Fees,Adjusted Net Order Amount,Order Type,Payment Type
+6/4/2020,1663091444,1,Credit Card,,Delaware,OH,43015,United States,USD,24.99,,,0,0,0,0,26.74,,1.05,23.94,,,,online,online_cc
+6/3/2020,1672574195,1,Credit Card,6/4/2020,Steinauer,NE,68441,United States,USD,34.95,,,0,0,0,0,36.87,,1.36,33.59,,,,online,online_cc
+6/3/2020,1662388422,1,Credit Card,6/5/2020,Lihue,HI,96766,United States,USD,14.95,,,0,0,0,0,15.62,,0.72,14.23,,,,online,online_cc
+6/3/2020,1661655122,1,Credit Card,,NEW YORK,NY,10016-6047,United States,USD,15.95,,,0,0,5,0,22.82,,0.93,20.02,,,,online,online_cc
+6/2/2020,1671361905,1,Credit Card,6/3/2020,Mission Viejo,CA,92691,United States,USD,9.95,,,0,0,0,0,10.72,,0.57,9.38,,,,online,online_cc
+6/2/2020,1671254669,1,Credit Card,6/5/2020,NEWPORT,KY,41071,United States,USD,19.95,,,0,0,0,0,21.15,,0.88,19.07,,,,online,online_cc
+6/2/2020,1670803339,1,Credit Card,6/2/2020,Temple Hills,MD,20748,United States,USD,24.95,,,0,0,0,0,26.45,,1.04,23.91,,,,online,online_cc
+6/1/2020,1659643874,1,Credit Card,6/2/2020,Dalton,PA,18414,United States,USD,34.95,,,0,0,5,0,42.35,,1.52,38.43,,,,online,online_cc
+5/31/2020,1669723037,1,Credit Card,6/2/2020,lawrenceville,GA,30044,United States,USD,38,,,0,0,0,0,40.28,,1.46,36.54,,,,online,online_cc
+5/31/2020,1669599599,1,Credit Card,6/2/2020,La Mesa,CA,91941,United States,USD,24.95,,,0,0,0,0,27.07,,1.06,23.89,,,,online,online_cc
+5/31/2020,1669266119,1,Credit Card,6/2/2020,San Antonio,TX,78247-5120,United States,USD,14.95,,,0,0,0,0,16.18,,0.74,14.21,,,,online,online_cc
+5/31/2020,1659081748,2,Credit Card,6/1/2020,Venice,FL,34292,United States,USD,117.4,,,0,0,0,0,117.4,,3.77,113.63,,,,online,online_cc
+5/31/2020,1658964308,1,Credit Card,5/31/2020,Richland,MI,49083,United States,USD,12.95,,,0,0,0,0,13.73,,0.66,12.29,,,,online,online_cc
+5/30/2020,1658594790,1,Credit Card,5/31/2020,SAN ANTONIO,TX,78249,United States,USD,45,,,0,0,0,0,48.71,,1.71,43.29,,,,online,online_cc
+5/30/2020,1658244778,1,Credit Card,5/31/2020,Fairbanks,AK,99709,United States,USD,24.95,,,0,0,5,0,29.95,,1.15,28.8,,,,online,online_cc
+5/30/2020,1658091030,1,Credit Card,6/1/2020,Washington,DC,20011,United States,USD,44.95,,,0,0,0,0,47.65,,1.68,43.27,,,,online,online_cc
+5/29/2020,1657635146,1,Credit Card,5/31/2020,Utica,NY,13502,United States,USD,19.95,,,0,0,0,0,21.7,,0.9,19.05,,,,online,online_cc
+5/29/2020,1667688249,1,Credit Card,5/29/2020,Avon,IN,46123,United States,USD,15,,,0,0,0,0,16.05,,0.73,14.27,,,,online,online_cc
+5/28/2020,1666851189,1,Credit Card,5/30/2020,Bonney lake,WA,98391,United States,USD,19.95,,,0,0,0,0,21.81,,0.9,19.05,,,,online,online_cc
+5/28/2020,1666366221,2,Credit Card,6/1/2020,Nashville,TN,37211-5155,United States,USD,24,,,0,0,0,0,24,,0.97,23.03,,,,online,online_cc
+5/28/2020,1666244509,1,Credit Card,5/31/2020,Wellesley,MA,2482,United States,USD,15.95,,,0,0,0,0,16.95,,0.76,15.19,,,,online,online_cc
+5/28/2020,1666031619,1,Credit Card,6/1/2020,Keene,NH,3431,United States,USD,38.95,,,0,0,0,0,38.95,,1.42,37.53,,,,online,online_cc
+5/28/2020,1655838512,1,Credit Card,5/29/2020,San Francisco,CA,94112-1812,United States,USD,29.95,,,0,0,5,0,37.49,,1.37,33.58,,,,online,online_cc
+5/27/2020,1665873077,1,Credit Card,5/30/2020,Burleson,TX,76028,United States,USD,34.95,,,0,0,0,2.87,37.82,,1.38,33.57,,,,online,online_cc
+5/27/2020,1665432521,1,Credit Card,5/30/2020,Fair Lawn,NJ,7410,United States,USD,39.95,,,0,0,0,0,42.6,,1.53,38.42,,,,online,online_cc
+5/26/2020,1654719028,1,Credit Card,5/26/2020,Rockville,MD,20850,United States,USD,15.95,,,0,0,0,0,16.91,,0.76,15.19,,,,online,online_cc
+5/26/2020,1654563108,1,Credit Card,5/28/2020,Duluth,GA,30096-4128,United States,USD,15,,,0,0,0,0,15.9,,0.73,14.27,,,,online,online_cc
+5/26/2020,1654382624,1,Credit Card,5/29/2020,RED CREEK,NY,13143,United States,USD,25,,,0,0,0,0,27,,1.06,23.94,,,,online,online_cc
+5/26/2020,1664422465,1,Credit Card,5/28/2020,Chino Hills,CA,91709,United States,USD,18,,,0,0,0,0,19.4,,0.83,17.17,,,,online,online_cc
+5/26/2020,1664211591,1,Credit Card,5/29/2020,Niagara,WI,54151,United States,USD,14.95,,,0,0,0,0,15.77,,0.72,14.23,,,,online,online_cc
+5/25/2020,1653586018,1,Credit Card,5/28/2020,Bryan,TX,77801,United States,USD,17.95,,,0,0,0,0,19.43,,0.83,17.12,,,,online,online_cc
+5/25/2020,1653274820,1,Credit Card,5/28/2020,Lafayette,IN,47905,United States,USD,19.49,,,0,0,0,0,20.85,,0.88,18.61,,,,online,online_cc
+5/25/2020,1653031982,1,Credit Card,5/28/2020,Iowa City,IA,52245,United States,USD,35.95,,,0,0,0,0,38.11,,1.39,34.56,,,,online,online_cc
+5/24/2020,1652749822,1,Credit Card,5/26/2020,Saint Louis Park,MN,55426-1824,United States,USD,18,,,0,0,0,0,19.36,,0.83,17.17,,,,online,online_cc
+5/24/2020,1662754685,1,Credit Card,5/26/2020,Long Island City,NY,11104,United States,USD,29.95,,,0,0,0,0,32.61,,1.23,28.72,,,,online,online_cc
+5/24/2020,1662355943,1,Credit Card,5/26/2020,West Gardiner,ME,04345-3645,United States,USD,12.95,,,0,0,0,0,13.66,,0.66,12.29,,,,online,online_cc
+5/24/2020,1662242173,1,Credit Card,5/27/2020,AUBURN,AL,36830,United States,USD,34.95,,,0,0,0,0,37.75,,1.38,33.57,,,,online,online_cc
+5/23/2020,1661777695,1,Credit Card,5/27/2020,Encinitas,CA,92024,United States,USD,12,,,0,0,0,0,12.93,,0.64,11.36,,,,online,online_cc
+5/23/2020,1651702130,1,Credit Card,5/26/2020,Tifton,GA,31794-8703,United States,USD,34.95,,,0,0,0,0,37.75,,1.38,33.57,,,,online,online_cc
+5/23/2020,1661607103,1,Credit Card,5/26/2020,Bicknell,UT,84715,United States,USD,24.99,,,0,0,0,0,26.51,,1.05,23.94,,,,online,online_cc
+5/23/2020,1651222420,1,Credit Card,5/26/2020,Gig Harbor,WA,98329,United States,USD,7.95,,,0,0,0,0,8.58,,0.51,7.44,,,,online,online_cc
+5/22/2020,1660922165,1,Credit Card,5/26/2020,Cohoes,NY,12047,United States,USD,14.95,,,0,0,0,0,16.15,,0.73,14.22,,,,online,online_cc
+5/22/2020,1660753857,1,Credit Card,5/26/2020,Beaver Falls,PA,15010,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+5/22/2020,1660726507,1,Credit Card,5/22/2020,Las Vegas,NV,89113-4098,United States,USD,9.95,,,0,0,5,0,15.79,,0.72,14.23,,,,online,online_cc
+5/22/2020,1660502099,1,Credit Card,5/22/2020,Lexington,NC,27292,United States,USD,65,,,0,0,0,0,69.55,,2.34,62.66,,,,online,online_cc
+5/22/2020,1660254655,1,Credit Card,5/23/2020,Cave Springs,AR,72718,United States,USD,17.95,,,0,0,0,0,19.7,,0.84,17.11,,,,online,online_cc
+5/22/2020,1660230931,1,Credit Card,5/26/2020,Columbus,OH,43204,United States,USD,14.95,,,0,0,0,0,16.07,,0.73,14.22,,,,online,online_cc
+5/21/2020,1659154775,1,Credit Card,5/23/2020,MILWAUKEE,WI,53212-2651,United States,USD,25,,,0,0,0,0,26.38,,1.04,23.96,,,,online,online_cc
+5/21/2020,1649071984,1,Credit Card,5/22/2020,CEDAR GROVE,NJ,7009,United States,USD,44.95,,,0,0,0,0,47.93,,1.69,43.26,,,,online,online_cc
+5/20/2020,1648660428,1,Credit Card,5/22/2020,Webster Groves,MO,63119,United States,USD,40,,,0,0,0,0,40,,1.45,38.55,,,,online,online_cc
+5/20/2020,1658698811,1,Credit Card,5/22/2020,Kansas City,MO,64108,United States,USD,49.95,,,0,0,0,0,49.95,,1.75,48.2,,,,online,online_cc
+5/17/2020,1655372091,1,Credit Card,5/19/2020,New York,NY,10003,United States,USD,24.95,,,0,0,0,0,27.16,,1.06,23.89,,,,online,online_cc
+5/17/2020,1654794049,1,Credit Card,5/19/2020,lilburn,GA,30047,United States,USD,14.95,,,0,0,0,0,15.85,,0.73,14.22,,,,online,online_cc
+5/16/2020,1644343796,1,Credit Card,5/19/2020,Greensboro,NC,27403,United States,USD,29.95,,,0,0,0,0,31.97,,1.21,28.74,,,,online,online_cc
+5/16/2020,1654282995,1,Credit Card,5/18/2020,Lansing,MI,48911,United States,USD,49.99,,,0,0,0,0,52.99,,1.84,48.15,,,,online,online_cc
+5/16/2020,1653698889,1,Credit Card,5/19/2020,los angeles,CA,90065,United States,USD,24.77,,,0,0,0,0,27.13,,1.06,23.71,,,,online,online_cc
+5/16/2020,1653469017,1,Credit Card,5/16/2020,Whittier,CA,90601,United States,USD,12,,,0,0,0,0,13.14,,0.64,11.36,,,,online,online_cc
+5/15/2020,1652940337,1,Credit Card,5/16/2020,Concord,CA,94519,United States,USD,18,,,0,0,0,0,19.58,,0.84,17.16,,,,online,online_cc
+5/15/2020,1652858927,1,Credit Card,5/16/2020,Los Angeles,CA,90064,United States,USD,19.95,,,0,0,0,0,21.85,,0.91,19.04,,,,online,online_cc
+5/15/2020,1642472970,1,Credit Card,5/16/2020,Chambersburg ,PA,17202,United States,USD,8,,,0,0,0,0,8.48,,0.5,7.5,,,,online,online_cc
+5/14/2020,1652268785,1,Credit Card,5/16/2020,GILBERT,AZ,85295-5116,United States,USD,12,,,0,0,0,0,13.03,,0.64,11.36,,,,online,online_cc
+5/14/2020,1651588227,1,Credit Card,5/16/2020,WASHINGTON,DC,20011,United States,USD,24.95,,,0,0,0,0,26.45,,1.04,23.91,,,,online,online_cc
+5/13/2020,1639984236,1,Credit Card,5/14/2020,Plano,TX,75075,United States,USD,12.95,,,0,0,0,0,14.02,,0.67,12.28,,,,online,online_cc
+5/12/2020,1649854675,1,Credit Card,5/14/2020,New Berlin,WI,53151,United States,USD,15,,,0,0,0,0,15.75,,0.72,14.28,,,,online,online_cc
+5/12/2020,1649740705,1,Credit Card,5/14/2020,Milwaukee,WI,53212,United States,USD,15,,,0,0,0,0,15.83,,0.72,14.28,,,,online,online_cc
+5/12/2020,1639526480,1,Credit Card,5/14/2020,San Diego,CA,92110-1423,United States,USD,24.95,,,0,0,0,0,26.88,,1.06,23.89,,,,online,online_cc
+5/12/2020,1648862883,1,Credit Card,5/14/2020,Oxford,MI,48371-3554,United States,USD,12.95,,,0,0,0,0,13.73,,0.66,12.29,,,,online,online_cc
+5/11/2020,1638748366,1,Credit Card,5/14/2020,Headland,AL,36345,United States,USD,90,,,0,0,0,0,97.2,,3.17,86.83,,,,online,online_cc
+5/11/2020,1638595716,1,Credit Card,5/12/2020,Constantine,MI,49042,United States,USD,34.95,,,0,0,0,0,37.05,,1.36,33.59,,,,online,online_cc
+5/11/2020,1648129433,1,Credit Card,5/12/2020,MORAINE,OH,45439-1651,United States,USD,29.99,,,0,0,0,0,32.23,,1.22,28.77,,,,online,online_cc
+5/10/2020,1647690931,1,Credit Card,5/12/2020,University Place,WA,98466,United States,USD,10,,,0,0,0,0,10.99,,0.58,9.42,,,,online,online_cc
+5/10/2020,1637543044,1,Credit Card,5/12/2020,WILLOW GROVE,PA,19090,United States,USD,25,,,0,0,0,0,26.5,,1.05,23.95,,,,online,online_cc
+5/9/2020,1645991151,1,Credit Card,5/12/2020,Champaign,IL,61820,United States,USD,18,,,0,0,0,0,18,,0.79,17.21,,,,online,online_cc
+5/9/2020,1645984841,1,Credit Card,5/12/2020,Champaign,IL,61820,United States,USD,18,,,0,0,0,0,18,,0.79,17.21,,,,online,online_cc
+5/9/2020,1645882885,1,Credit Card,5/12/2020,DECATUR,TX,76234-1230,United States,USD,15,,,0,0,0,0,16.25,,0.74,14.26,,,,online,online_cc
+5/8/2020,1645503021,1,Credit Card,5/9/2020,Mocksville,NC,27028,United States,USD,30,,,0,0,0,0,32.03,,1.21,28.79,,,,online,online_cc
+5/8/2020,1645457111,1,Credit Card,5/13/2020,WEST COLLEGE CORNER,IN,47003,United States,USD,40,,,0,0,0,0,42.8,,1.53,38.47,,,,online,online_cc
+5/8/2020,1645014443,1,Credit Card,5/12/2020,West Roxbury,MA,2132,United States,USD,12,SAVE15NOW,% off,1.8,0,0,0,10.84,,0.58,9.62,,,,online,online_cc
+5/8/2020,1634902326,1,Credit Card,5/12/2020,Salem,OR,97306-1765,United States,USD,40,,,0,0,0,0,40,,1.45,38.55,,,,online,online_cc
+5/8/2020,1644878833,1,Credit Card,5/13/2020,Kingsport,TN,37663,United States,USD,30,,,0,0,0,0,30,,1.15,28.85,,,,online,online_cc
+5/7/2020,1644425635,1,Credit Card,5/12/2020,snohomish,WA,98296,United States,USD,18,,,0,0,0,0,19.87,,0.85,17.15,,,,online,online_cc
+5/7/2020,1633972614,1,Credit Card,5/12/2020,Loomis,CA,95650,United States,USD,12,,,0,0,0,0,12.9,,0.64,11.36,,,,online,online_cc
+5/6/2020,1633161662,1,Credit Card,5/9/2020,San Mateo,CA,94401,United States,USD,20,,,0,0,0,0,21.9,,0.91,19.09,,,,online,online_cc
+5/6/2020,1632675886,1,Credit Card,5/9/2020,Spanaway,WA,98387,United States,USD,25,,,0,0,0,0,27.33,,1.07,23.93,,,,online,online_cc
+5/6/2020,1632403814,1,Credit Card,5/9/2020,Essex Fells,NJ,7021,United States,USD,39.95,,,0,0,0,0,42.6,,1.53,38.42,,,,online,online_cc
+5/6/2020,1632347790,1,Credit Card,5/8/2020,Columbia,CT,6237,United States,USD,9.95,,,0,0,0,0,10.58,,0.57,9.38,,,,online,online_cc
+5/5/2020,1631655448,1,Credit Card,5/8/2020,Shepherdsville,KY,40165,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+5/5/2020,1641407325,1,Credit Card,5/8/2020,Fort Worth,TX,76106,United States,USD,16.95,,,0,0,0,0,18.34,,0.8,16.15,,,,online,online_cc
+5/4/2020,1640653689,1,Credit Card,5/6/2020,Rolla,MO,65401-5971,United States,USD,20,,,0,0,0,0,20,,0.85,19.15,,,,online,online_cc
+5/3/2020,1629425700,2,Credit Card,5/4/2020,WILLIAMSBURG,VA,23185,United States,USD,22.9,,,0,0,0,0,24.51,,0.99,21.91,,,,online,online_cc
+5/3/2020,1629197728,1,Credit Card,5/4/2020,Quincy,MA,2171,United States,USD,15,,,0,0,0,0,15.94,,0.73,14.27,,,,online,online_cc
+5/2/2020,1638070893,1,Credit Card,5/6/2020,Jefferson City,MO,65109,United States,USD,35,,,0,0,0,0,35,,1.3,33.7,,,,online,online_cc
+5/2/2020,1637715047,1,Credit Card,5/4/2020,San Antonio,TX,78240,United States,USD,29.95,,,0,0,0,0,32.41,,1.22,28.73,,,,online,online_cc
+5/2/2020,1627672948,1,Credit Card,5/4/2020,San Juan,TX,78589,United States,USD,16.95,,,0,0,0,0,18.35,,0.8,16.15,,,,online,online_cc
+5/2/2020,1637410009,1,Credit Card,5/6/2020,Etna,CA,96027,United States,USD,35,,,0,0,0,0,37.54,,1.38,33.62,,,,online,online_cc
+5/1/2020,1636900495,1,Credit Card,5/6/2020,REDDING,CA,96003,United States,USD,39,,,0,0,0,0,41.83,,1.5,37.5,,,,online,online_cc
+5/1/2020,1626299094,1,Credit Card,5/4/2020,Mount Juliet,TN,37122,United States,USD,13,,,0,0,0,0,13,,0.64,12.36,,,,online,online_cc
+4/30/2020,1635662963,1,Credit Card,5/4/2020,burlington,KY,41005,United States,USD,49.95,,,0,0,0,0,52.95,,1.84,48.11,,,,online,online_cc
+4/30/2020,1634949361,1,Credit Card,5/4/2020,San leandro,CA,94577,United States,USD,9.49,,,0,0,0,0,10.41,,0.56,8.93,,,,online,online_cc
+4/29/2020,1634533475,1,Credit Card,5/2/2020,Tomball,TX,77377,United States,USD,30,,,0,0,0,0,32.48,,1.22,28.78,,,,online,online_cc
+4/29/2020,1624582210,1,Credit Card,5/2/2020,Marshalltown,IA,50158-5621,United States,USD,30,,,0,0,0,0,31.8,,1.2,28.8,,,,online,online_cc
+4/29/2020,1624154962,1,Credit Card,5/2/2020,Sherwood,OR,97140,United States,USD,80,,,0,0,0,0,80,,2.65,77.35,,,,online,online_cc
+4/29/2020,1624040158,1,Credit Card,5/2/2020,Wilmington,DE,19804-1112,United States,USD,20,,,0,0,0,0,20,,0.85,19.15,,,,online,online_cc
+4/29/2020,1623880432,1,Credit Card,5/2/2020,Horton,AL,35980,United States,USD,19.95,,,0,0,0,0,21.55,,0.9,19.05,,,,online,online_cc
+4/29/2020,1633745489,1,Credit Card,5/2/2020,Middletown,NY,10941,United States,USD,39.99,,,0,0,0,0,43.24,,1.55,38.44,,,,online,online_cc
+4/29/2020,1623739464,1,Credit Card,5/2/2020,ENGLEWOOD,FL,34224,United States,USD,15,,,0,0,0,0,15,,0.7,14.3,,,,online,online_cc
+4/28/2020,1623485894,1,Credit Card,4/30/2020,Virginia Beach,VA,23462,United States,USD,15,,,0,0,0,0,15.91,,0.73,14.27,,,,online,online_cc
+4/28/2020,1633367873,1,Credit Card,4/29/2020,Fairfax,VA,22033,United States,USD,29.95,,,0,0,5,0,36.75,,1.35,33.6,,,,online,online_cc
+4/28/2020,1633345651,1,Credit Card,4/29/2020,kent,OH,44240,United States,USD,30,,,0,0,0,0,32.18,,1.22,28.78,,,,online,online_cc
+4/28/2020,1623375836,1,Credit Card,4/30/2020,Lawrenceburg,KY,40342,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+4/28/2020,1623293482,1,Credit Card,4/30/2020,Beverly,MA,1915,United States,USD,12,,,0,0,0,0,12.75,,0.63,11.37,,,,online,online_cc
+4/28/2020,1622942630,1,Credit Card,4/30/2020,ANCHORAGE,AK,99516,United States,USD,12,,,0,0,0,0,12,,0.61,11.39,,,,online,online_cc
+4/28/2020,1622926438,1,Credit Card,4/30/2020,Chicago,IL,60616,United States,USD,15,,,0,0,0,0,15.94,,0.73,14.27,,,,online,online_cc
+4/28/2020,1622718174,1,Credit Card,5/1/2020,Porterville,CA,93257,United States,USD,35,,,0,0,0,0,38.25,,1.4,33.6,,,,online,online_cc
+4/27/2020,1621967816,1,Credit Card,4/30/2020,Evansville,IN,47725-7409,United States,USD,34.5,,,0,0,0,0,36.92,,1.36,33.14,,,,online,online_cc
+4/27/2020,1631651935,1,Credit Card,4/30/2020,Fayetteville,PA,17222,United States,USD,59.95,,,0,0,0,0,63.55,,2.16,57.79,,,,online,online_cc
+4/27/2020,1621603992,1,Credit Card,4/30/2020,Woodland Hills,CA,91367,United States,USD,39.99,,,0,0,0,0,43.79,,1.56,38.43,,,,online,online_cc
+4/26/2020,1630867807,1,Credit Card,4/30/2020,Corona,CA,92880,United States,USD,40,,,0,0,0,0,43.1,,1.54,38.46,,,,online,online_cc
+4/26/2020,1620880842,1,Credit Card,4/29/2020,Greenville,KY,42345,United States,USD,29.95,,,0,0,0,0,31.75,,1.2,28.75,,,,online,online_cc
+4/26/2020,1630769003,1,Credit Card,4/29/2020,Westminster,SC,29693-5411,United States,USD,12.95,,,0,0,0,0,13.73,,0.66,12.29,,,,online,online_cc
+4/26/2020,1620533278,1,Credit Card,4/29/2020,FOX RIVER GROVE,IL,60021,United States,USD,45,SAVE15NOW,% off,6.75,0,0,0,40.64,,1.47,36.78,,,,online,online_cc
+4/25/2020,1620028294,1,Credit Card,4/28/2020,NORFOLK,VA,23504,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+4/25/2020,1629457089,1,Credit Card,4/28/2020,Avondale,AZ,85392,United States,USD,20,,,0,0,0,0,21.72,,0.9,19.1,,,,online,online_cc
+4/25/2020,1629377357,1,Credit Card,4/28/2020,Sterling,IL,61081-2429,United States,USD,15.95,,,0,0,0,0,16.95,,0.76,15.19,,,,online,online_cc
+4/25/2020,1619273366,1,Credit Card,4/28/2020,Bolingbrook,IL,60490,United States,USD,20,,,0,0,0,0,21.25,,0.89,19.11,,,,online,online_cc
+4/24/2020,1628389033,1,Credit Card,4/28/2020,LAWRENCE,KS,66047,United States,USD,75,,,0,0,0,0,75,,2.5,72.5,,,,online,online_cc
+4/24/2020,1618476352,1,Credit Card,4/29/2020,ANGOLA,IN,46703,United States,USD,39,,,0,0,0,0,41.73,,1.5,37.5,,,,online,online_cc
+4/24/2020,1627831483,1,Credit Card,4/27/2020,Oak Park,MN,56357,United States,USD,25,,,0,0,0,0,26.85,,1.06,23.94,,,,online,online_cc
+4/23/2020,1627772039,1,Credit Card,4/27/2020,Homer,MI,49245-9410,United States,USD,8,,,0,0,0,0,8.48,,0.5,7.5,,,,online,online_cc
+4/23/2020,1617389582,1,Credit Card,4/27/2020,Baltimore,MD,21211,United States,USD,30,,,0,0,0,0,31.8,,1.2,28.8,,,,online,online_cc
+4/23/2020,1627049305,1,Credit Card,4/27/2020,Los Angeles ,CA,90036,United States,USD,50,,,0,0,0,0,54.76,,1.89,48.11,,,,online,online_cc
+4/22/2020,1626654909,1,Credit Card,4/25/2020,New Baltimore,MI,48047,United States,USD,25,,,0,0,0,0,26.5,,1.05,23.95,,,,online,online_cc
+4/22/2020,1626078537,1,Credit Card,4/25/2020,Houston,TX,77059,United States,USD,20,,,0,0,0,0,21.65,,0.9,19.1,,,,online,online_cc
+4/22/2020,1625832953,1,Credit Card,4/25/2020,Fuquay Varina,NC,27526-2365,United States,USD,10,,,0,0,0,0,10.73,,0.57,9.43,,,,online,online_cc
+4/22/2020,1625776247,1,Credit Card,4/24/2020,Tampa,FL,33647-2869,United States,USD,25,,,0,0,0,0,25,,1,24,,,,online,online_cc
+4/21/2020,1615472032,1,Credit Card,4/24/2020,HAMPSTEAD,NC,28443,United States,USD,34.95,,,0,0,0,0,37.31,,1.37,33.58,,,,online,online_cc
+4/21/2020,1625247345,1,Credit Card,4/24/2020,Champlain,NY,12919-6003,United States,USD,34.95,,,0,0,0,0,37.75,,1.38,33.57,,,,online,online_cc
+4/21/2020,1615331914,1,Credit Card,4/24/2020,Oakland,CA,94608,United States,USD,35,,,0,0,0,0,38.24,,1.4,33.6,,,,online,online_cc
+4/21/2020,1615247216,1,Credit Card,4/24/2020,Lafayette,CA,94549,United States,USD,18,,,0,0,0,0,19.49,,0.83,17.17,,,,online,online_cc
+4/21/2020,1615139836,1,Credit Card,4/24/2020,Colonial Bch,VA,22443-1812,United States,USD,35,,,0,0,0,0,36.86,,1.36,33.64,,,,online,online_cc
+4/21/2020,1614691858,1,Credit Card,4/24/2020,GREENVILLE,TX,75402,United States,USD,18,,,0,0,0,0,19.49,,0.83,17.17,,,,online,online_cc
+4/20/2020,1614558058,1,Credit Card,4/23/2020,BLOOMINGTON,IN,47403,United States,USD,20,,,0,0,0,0,21.4,,0.89,19.11,,,,online,online_cc
+4/20/2020,1624096367,1,Credit Card,4/23/2020,Sunnyvale,CA,94087,United States,USD,37.95,,,0,0,0,0,41.36,,1.49,36.46,,,,online,online_cc
+4/20/2020,1624047845,1,Credit Card,4/23/2020,Fort Myers,FL,33966-7705,United States,USD,29.95,,,0,0,0,0,29.95,,1.15,28.8,,,,online,online_cc
+4/20/2020,1613947762,1,Credit Card,4/23/2020,Theodore,AL,36582,United States,USD,18,,,0,0,0,0,19.44,,0.83,17.17,,,,online,online_cc
+4/19/2020,1613543018,1,Credit Card,4/22/2020,Quincy,MA,2171,United States,USD,9.95,,,0,0,0,0,10.57,,0.57,9.38,,,,online,online_cc
+4/19/2020,1623138747,1,Credit Card,4/22/2020,STAATSBURG,NY,12580,United States,USD,30,,,0,0,0,0,32.44,,1.22,28.78,,,,online,online_cc
+4/19/2020,1613253136,1,Credit Card,4/21/2020,Tulsa,OK,74112,United States,USD,39.95,,,0,0,0,0,43.36,,1.55,38.4,,,,online,online_cc
+4/19/2020,1612644412,1,Credit Card,4/22/2020,Spring Lake Park,MN,55432,United States,USD,18,,,0,0,0,0,19.29,,0.83,17.17,,,,online,online_cc
+4/18/2020,1622382423,1,Credit Card,4/20/2020,Green Bay,WI,54303,United States,USD,10,,,0,0,0,0,10.55,,0.57,9.43,,,,online,online_cc
+4/18/2020,1622375605,1,Credit Card,4/22/2020,Bridgeport,WV,26330,United States,USD,27.95,,,0,0,0,0,29.91,,1.15,26.8,,,,online,online_cc
+4/18/2020,1611875564,2,Credit Card,4/22/2020,Lewis Center,OH,43035,United States,USD,21.95,,,0,0,0,0,23.5,,0.96,20.99,,,,online,online_cc
+4/18/2020,1611541516,1,Credit Card,4/21/2020,Chatham,NJ,7928,United States,USD,49.95,,,0,0,0,0,53.26,,1.85,48.1,,,,online,online_cc
+4/17/2020,1611495074,1,Credit Card,4/21/2020,Griggsville,IL,62340,United States,USD,60,,,0,0,0,0,63.75,,2.16,57.84,,,,online,online_cc
+4/17/2020,1611456786,1,Credit Card,4/21/2020,Riverview,FL,33578,United States,USD,15,,,0,0,0,0,15,,0.7,14.3,,,,online,online_cc
+4/17/2020,1611187912,1,Credit Card,4/21/2020,CLOVIS,CA,93619-2714,United States,USD,14,,,0,0,0,0,15.12,,0.7,13.3,,,,online,online_cc
+4/17/2020,1620846773,1,Credit Card,4/20/2020,Clermont,FL,34714,United States,USD,12,,,0,0,0,0,12,,0.61,11.39,,,,online,online_cc
+4/17/2020,1620683405,1,Credit Card,4/21/2020,Tinley Park,IL,60477,United States,USD,10,,,0,0,0,0,10.63,,0.57,9.43,,,,online,online_cc
+4/17/2020,1610460260,1,Credit Card,4/18/2020,Henderson,NV,89074-3297,United States,USD,12,,,0,0,0,0,13,,0.64,11.36,,,,online,online_cc
+4/17/2020,1620234181,1,Credit Card,4/20/2020,Humble,TX,77346,United States,USD,12,,,0,0,0,0,12.87,,0.64,11.36,,,,online,online_cc
+4/16/2020,1620027923,1,Credit Card,4/20/2020,Ocala,FL,34473,United States,USD,24.95,,,0,0,0,0,24.95,,1,23.95,,,,online,online_cc
+4/16/2020,1619938181,1,Credit Card,4/20/2020,San Antonio,TX,78247-4263,United States,USD,29.99,,,0,0,0,0,32.45,,1.22,28.77,,,,online,online_cc
+4/16/2020,1610022460,1,Credit Card,4/20/2020,Rockford,MI,49341,United States,USD,59.95,,,0,0,0,0,63.55,,2.16,57.79,,,,online,online_cc
+4/16/2020,1609273598,1,Credit Card,4/18/2020,Euless,TX,76039-8518,United States,USD,16,,,0,0,0,0,17.32,,0.77,15.23,,,,online,online_cc
+4/15/2020,1618829647,1,Credit Card,4/17/2020,Lawrenceburg,KY,40342,United States,USD,18,,,0,0,0,0,19.08,,0.82,17.18,,,,online,online_cc
+4/15/2020,1608544188,1,Credit Card,4/16/2020,NORFOLK,VA,23513-3257,United States,USD,12,,,0,0,0,0,12.72,,0.63,11.37,,,,online,online_cc
+4/15/2020,1608307744,1,Credit Card,4/17/2020,Albany,NY,12203-2240,United States,USD,29.99,,,0,0,0,0,32.39,,1.22,28.77,,,,online,online_cc
+4/15/2020,1618014983,1,Credit Card,4/17/2020,Pasadena ,CA,91104,United States,USD,80,,,0,0,0,0,88.2,,2.9,77.1,,,,online,online_cc
+4/14/2020,1617805175,1,Credit Card,4/16/2020,Taylors,SC,29687,United States,USD,14,,,0,0,0,0,14.84,,0.7,13.3,,,,online,online_cc
+4/13/2020,1607269222,1,Credit Card,4/15/2020,San Pedro,CA,90731,United States,USD,34.95,,,0,0,0,0,38.28,,1.4,33.55,,,,online,online_cc
+4/13/2020,1607109330,1,Credit Card,4/15/2020,Springfield,MA,1118,United States,USD,18,,,0,0,0,0,19.13,,0.82,17.18,,,,online,online_cc
+4/13/2020,1606515266,1,Credit Card,4/14/2020,San Jose,CA,95124,United States,USD,34.77,,,0,0,0,0,38,,1.39,33.38,,,,online,online_cc
+4/12/2020,1606390574,1,Credit Card,4/13/2020,Brookhaven,GA,30319,United States,USD,250,HAPPYEASTER,% off,62.5,0,0,0,202.51,,6.33,181.17,,,,online,online_cc
+4/12/2020,1605853728,1,Credit Card,4/14/2020,Seattle,WA,98122,United States,USD,15,,,0,0,0,0,16.52,,0.75,14.25,,,,online,online_cc
+4/11/2020,1615456255,1,Credit Card,4/14/2020,COLORADO SPRINGS,CO,80920,United States,USD,12,,,0,0,0,0,12.47,,0.62,11.38,,,,online,online_cc
+4/11/2020,1614939815,1,Credit Card,4/13/2020,Euclid,OH,44132,United States,USD,11.95,,,0,0,0,0,12.91,,0.64,11.31,,,,online,online_cc
+4/10/2020,1604754394,1,Credit Card,4/13/2020,Severn,MD,21144,United States,USD,125,,,0,0,0,0,132.5,,4.23,120.77,,,,online,online_cc
+4/9/2020,1603527062,1,Credit Card,4/10/2020,San Francisco,CA,94133,United States,USD,28,,,0,0,0,0,30.38,,1.16,26.84,,,,online,online_cc
+4/8/2020,1603414710,1,Credit Card,4/10/2020,Philadelphia,PA,19104,United States,USD,8,,,0,0,0,0,8.64,,0.51,7.49,,,,online,online_cc
+4/8/2020,1612963199,1,Credit Card,4/10/2020,Burnsville,NC,28714,United States,USD,14,,,0,0,0,0,14.95,,0.7,13.3,,,,online,online_cc
+4/8/2020,1612654345,1,Credit Card,4/8/2020,Portland,OR,97229,United States,USD,20,,,0,0,5,0,25,,1,24,,,,online,online_cc
+4/8/2020,1602742462,1,Credit Card,4/8/2020,Claysburg,PA,16625,United States,USD,25,,,0,0,0,0,26.5,,1.05,23.95,,,,online,online_cc
+4/7/2020,1612359919,1,Credit Card,4/8/2020,Gainesville,FL,32608,United States,USD,13.95,,,0,0,0,0,13.95,,0.67,13.28,,,,online,online_cc
+4/7/2020,1611952535,1,Credit Card,4/7/2020,Wilmington,NY,12997-7752,United States,USD,39.95,,,0,0,5,0,48.55,,1.71,43.24,,,,online,online_cc
+4/7/2020,1611743549,1,Credit Card,4/8/2020,OLYMPIA,WA,98502,United States,USD,54.95,,,0,0,0,0,60.11,,2.05,52.9,,,,online,online_cc
+4/6/2020,1601452990,1,Credit Card,4/6/2020,Tinley Park,IL,60477,United States,USD,25,,,0,0,0,0,26.56,,1.05,23.95,,,,online,online_cc
+3/12/2020,1598635589,1,Credit Card,3/13/2020,Nampa,ID,83686,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+3/11/2020,1598601835,1,Credit Card,3/13/2020,FISCHER,TX,78623-1801,United States,USD,20,,,0,0,0,0,21.45,,0.89,19.11,,,,online,online_cc
+3/10/2020,1588356668,1,Credit Card,3/12/2020,Campbellsville,KY,42718,United States,USD,25,,,0,0,0,0,26.5,,1.05,23.95,,,,online,online_cc
+3/10/2020,1598047681,1,Credit Card,3/12/2020,Ellicottville,NY,14731,United States,USD,20,,,0,0,0,0,21.6,,0.9,19.1,,,,online,online_cc
+3/10/2020,1598038023,1,Credit Card,3/12/2020,LOS ANGELES,CA,90026-6198,United States,USD,20,,,0,0,0,0,21.9,,0.91,19.09,,,,online,online_cc
+3/10/2020,1597924339,1,Credit Card,3/11/2020,St Anthony,MN,55421,United States,USD,40,,,0,0,0,0,42.95,,1.54,38.46,,,,online,online_cc
+3/8/2020,1597236185,1,Credit Card,3/10/2020,Stratham,NH,3885,United States,USD,10,,,0,0,0,0,10,,0.55,9.45,,,,online,online_cc
+3/8/2020,1587332894,1,Credit Card,3/10/2020,McMinnville,OR,97128,United States,USD,40,,,0,0,0,0,40,,1.45,38.55,,,,online,online_cc
+3/8/2020,1587200762,1,Credit Card,3/10/2020,Los Angeles,CA,90034,United States,USD,20,,,0,0,0,0,21.9,,0.91,19.09,,,,online,online_cc
+3/7/2020,1587081478,1,Credit Card,3/10/2020,Zionsville,IN,46077-1637,United States,USD,25,,,0,0,0,0,26.75,,1.05,23.95,,,,online,online_cc
+3/7/2020,1596595113,1,Credit Card,3/10/2020,Bozeman,MT,59715,United States,USD,20,,,0,0,0,0,20,,0.85,19.15,,,,online,online_cc
+3/6/2020,1586596868,1,Credit Card,3/10/2020,Collegeville,PA,19426-1658,United States,USD,18,,,0,0,0,0,19.08,,0.82,17.18,,,,online,online_cc
+3/6/2020,1586527268,1,Credit Card,3/10/2020,Tucson,AZ,85712,United States,USD,12,,,0,0,0,0,13.03,,0.64,11.36,,,,online,online_cc
+3/5/2020,1595860451,1,Credit Card,3/9/2020,Rochelle,IL,61068,United States,USD,45,,,0,0,0,0,47.81,,1.68,43.32,,,,online,online_cc
+3/5/2020,1595588663,19,Credit Card,3/7/2020,Lewis Center,OH,43035,United States,USD,280,SAVE15NOW,% off,42,0,0,0,254.72,,7.89,230.11,,7.41,231.1,online,online_cc
+3/4/2020,1595450061,10,Credit Card,3/6/2020,Newport Beach,CA,92663,United States,USD,480,,,0,0,0,0,517.22,,15.77,464.23,,,,online,online_cc
+3/4/2020,1595240151,1,Credit Card,3/6/2020,Adams,NE,68301-7725,United States,USD,75,,,0,0,0,0,79.13,,2.62,72.38,,,,online,online_cc
+3/3/2020,1585306484,1,Credit Card,3/5/2020,Georgetown,CA,95634,United States,USD,15,,,0,0,0,0,16.09,,0.73,14.27,,,,online,online_cc
+3/3/2020,1585234432,1,Credit Card,3/5/2020,Lodi,CA,95240-5530,United States,USD,25,,,0,0,0,0,27.07,,1.06,23.94,,,,online,online_cc
+3/2/2020,1594541231,1,Credit Card,3/4/2020,Kirkwood,MO,63122-3242,United States,USD,25,,,0,0,0,0,25,,1,24,,,,online,online_cc
+3/2/2020,1584750816,1,Credit Card,3/3/2020,philadelphia,PA,19107,United States,USD,20,,,0,0,0,0,21.6,,0.9,19.1,,,,online,online_cc
+3/1/2020,1594035063,1,Credit Card,3/2/2020,Chicago,IL,60657-4219,United States,USD,45,TAXTIME30,% off,13.5,0,0,0,33.47,,1.25,30.25,,,,online,online_cc
+3/1/2020,1593755545,1,Credit Card,3/2/2020,Chatsworth,CA,91311,United States,USD,25,,,0,0,0,0,27.37,,1.07,23.93,,,,online,online_cc
+2/29/2020,1593561549,1,Credit Card,3/2/2020,Elizabeth City,NC,27909,United States,USD,12,,,0,0,0,0,12.84,,0.64,11.36,,,,online,online_cc
+2/29/2020,1593510725,2,Credit Card,3/2/2020,Eden,MD,21822,United States,USD,26,,,0,0,0,0,27.56,,1.08,24.92,,,,online,online_cc
+2/29/2020,1593227037,1,Credit Card,3/2/2020,Linfield,PA,19468,United States,USD,30,,,0,0,0,0,31.8,,1.2,28.8,,,,online,online_cc
+2/28/2020,1583391824,1,Credit Card,3/2/2020,concord,NH,3301,United States,USD,39,,,0,0,0,0,39,,1.42,37.58,,,,online,online_cc
+2/28/2020,1593009121,1,Credit Card,3/2/2020,VANCOUVER,WA,98665-7046,United States,USD,50,TAXTIME30,% off,15,0,0,0,37.95,,1.39,33.61,,,,online,online_cc
+2/28/2020,1592715913,1,Credit Card,2/29/2020,Weehawken,NJ,7086,United States,USD,39,,,0,0,0,0,41.58,,1.5,37.5,,,,online,online_cc
+2/26/2020,1582142234,1,Credit Card,2/28/2020,Buckeye,AZ,85396-2310,United States,USD,10,,,0,0,0,0,10.86,,0.58,9.42,,,,online,online_cc
+2/26/2020,1582093652,10,Credit Card,2/28/2020,Lewis Center,OH,43035,United States,USD,132,,,0,0,0,0,141.25,,4.49,127.51,,,,online,online_cc
+2/25/2020,1582023018,3,Credit Card,2/27/2020,COTTAGE GROVE,MN,55016-4729,United States,USD,165,,,0,0,0,0,176.76,,5.55,159.45,,,,online,online_cc
+2/25/2020,1591647323,1,Credit Card,2/27/2020,COTTAGE GROVE,MN,55016-4729,United States,USD,110,,,0,0,0,0,117.84,,3.79,106.21,,,,online,online_cc
+2/25/2020,1581989738,1,Credit Card,2/27/2020,COTTAGE GROVE,MN,55016-4729,United States,USD,45,,,0,0,0,0,48.2,,1.7,43.3,,,,online,online_cc
+2/25/2020,1591415615,1,Credit Card,2/27/2020,Cumming,GA,30040,United States,USD,50,,,0,0,0,0,50,,1.75,48.25,,,,online,online_cc
+2/24/2020,1591221411,1,Credit Card,2/26/2020,Lubbock,TX,79416,United States,USD,45,,,0,0,0,0,48.72,,1.71,43.29,,,,online,online_cc
+2/21/2020,1589918875,1,Credit Card,2/25/2020,Dayton,TN,37321,United States,USD,20,,,0,0,0,0,20,,0.85,19.15,,,,online,online_cc
+2/21/2020,1580167600,4,Credit Card,2/25/2020,Vernon,NJ,7462,United States,USD,69,20OFFNOW,% off,13.8,0,0,0,58.86,,2.02,53.18,,,,online,online_cc
+2/21/2020,1580153564,1,Credit Card,2/25/2020,EAST PRAIRIE,MO,63845,United States,USD,35,,,0,0,0,0,35,,1.3,33.7,,,,online,online_cc
+2/21/2020,1589633603,1,Credit Card,2/24/2020,New York,NY,10036-3960,United States,USD,25,,,0,0,5,0,32.67,,1.23,28.77,,,,online,online_cc
+2/20/2020,1579849152,1,Credit Card,2/24/2020,omaha,NE,68152,United States,USD,10,,,0,0,0,0,10.7,,0.57,9.43,,,,online,online_cc
+2/20/2020,1579791840,1,Credit Card,2/24/2020,Princeton,MN,55371,United States,USD,25,,,0,0,0,0,26.85,,1.06,23.94,,,,online,online_cc
+2/20/2020,1589402617,1,Credit Card,2/24/2020,olney,MD,20832,United States,USD,35,,,0,0,0,0,37.1,,1.36,33.64,,,,online,online_cc
+2/20/2020,1579610716,1,Credit Card,2/24/2020,Camarillo,CA,93010,United States,USD,28,,,0,0,0,0,30.03,,1.15,26.85,,,,online,online_cc
+2/19/2020,1589055633,1,Credit Card,2/21/2020,Hot Springs,SD,57747,United States,USD,15,,,0,0,0,0,15.98,,0.73,14.27,,,,online,online_cc
+2/19/2020,1588685993,1,Credit Card,2/21/2020,Kirkland,WA,98034,United States,USD,15,,,0,0,0,0,16.52,,0.75,14.25,,,,online,online_cc
+2/18/2020,1588457179,1,Credit Card,2/20/2020,Hicksville,NY,11801,United States,USD,12,,,0,0,0,0,13.04,,0.64,11.36,,,,online,online_cc
+2/17/2020,1588230263,1,Credit Card,2/19/2020,BROOKLYN,NY,11201,United States,USD,15,,,0,0,0,0,16.34,,0.74,14.26,,,,online,online_cc
+2/17/2020,1578534346,1,Credit Card,2/19/2020,Briarwood,NY,11435,United States,USD,30,,,0,0,0,0,32.66,,1.23,28.77,,,,online,online_cc
+2/17/2020,1588084995,1,Credit Card,2/19/2020,WEST CHESTER,PA,19380-2850,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+2/16/2020,1587775169,1,Credit Card,2/18/2020,Arkansas City,KS,67005,United States,USD,40,VALENTINESDAY,% off,8,0,0,0,32,,1.21,30.79,,,,online,online_cc
+2/16/2020,1578148824,1,Credit Card,2/18/2020,Austin,TX,78726-4556,United States,USD,10,,,0,0,0,0,10.83,,0.57,9.43,,,,online,online_cc
+2/16/2020,1577770648,1,Credit Card,2/18/2020,Middle Island,NY,11953-1616,United States,USD,20,10OFFNOW,% off,2,0,0,0,19.56,,0.84,17.16,,,,online,online_cc
+2/16/2020,1587370669,1,Credit Card,2/18/2020,COTTAGE GROVE,MN,55016-4729,United States,USD,30,,,0,0,0,0,32.14,,1.21,28.79,,,,online,online_cc
+2/15/2020,1587330771,1,Credit Card,2/18/2020,FLORENCE,AZ,85132-3006,United States,USD,14,,,0,0,0,0,15.2,,0.71,13.29,,,,online,online_cc
+2/15/2020,1577701506,1,Credit Card,2/18/2020,North Chesterfield,VA,23234,United States,USD,30,,,0,0,0,0,31.59,,1.2,28.8,,,,online,online_cc
+2/15/2020,1577685978,2,Credit Card,2/18/2020,LEVITTOWN,NY,11756,United States,USD,50,VALENTINESDAY,% off,10,0,0,0,43.46,,1.55,38.45,,,,online,online_cc
+2/15/2020,1577619418,2,Credit Card,2/18/2020,COTTAGE GROVE,MN,55016-4729,United States,USD,52,VALENTINESDAY,% off,10.4,0,0,0,44.56,,1.59,40.01,,,,online,online_cc
+2/14/2020,1577246258,1,Credit Card,2/15/2020,NEW CANAAN,CT,6840,United States,USD,18,,,0,0,0,0,19.14,,0.82,17.18,,,,online,online_cc
+2/13/2020,1586330263,1,Credit Card,2/15/2020,Harrisburg,PA,17112,United States,USD,50,,,0,0,0,0,53,,1.84,48.16,,,,online,online_cc
+2/12/2020,1586026661,1,Credit Card,2/13/2020,Strum,WI,54770,United States,USD,12,,,0,0,5,0,17.94,,0.79,16.21,,,,online,online_cc
+2/12/2020,1576343260,2,Credit Card,2/14/2020,new york,NY,10014,United States,USD,36,,,0,0,0,0,39.2,,1.43,34.57,,,,online,online_cc
+2/12/2020,1585923235,1,Credit Card,2/14/2020,Clifton Park,NY,12065-2546,United States,USD,8,,,0,0,0,0,8.56,,0.51,7.49,,,,online,online_cc
+2/11/2020,1576007488,1,Credit Card,2/13/2020,Draper,UT,84020,United States,USD,18,,,0,0,0,0,19.3,,0.83,17.17,,,,online,online_cc
+2/11/2020,1585442633,1,Credit Card,2/13/2020,San diego,CA,92116,United States,USD,20,,,0,0,0,0,21.55,,0.9,19.1,,,,online,online_cc
+2/11/2020,1585219183,1,Credit Card,2/12/2020,Houston,TX,77057,United States,USD,15,,,0,0,0,0,16.24,,0.74,14.26,,,,online,online_cc
+2/10/2020,1575349840,1,Credit Card,2/12/2020,NORTH SALEM,NY,10560,United States,USD,22,,,0,0,0,0,23.84,,0.97,21.03,,,,online,online_cc
+2/10/2020,1584803503,1,Credit Card,2/12/2020,HOBOKEN,NJ,7030,United States,USD,20,,,0,0,0,0,21.33,,0.89,19.11,,,,online,online_cc
+2/9/2020,1584672425,1,Credit Card,2/11/2020,San Antonio,TX,78261,United States,USD,28,,,0,0,0,0,30.31,,1.16,26.84,,,,online,online_cc
+2/9/2020,1584524439,1,Credit Card,2/10/2020,Denver,CO,80220,United States,USD,15,,,0,0,0,0,15,,0.7,14.3,,,,online,online_cc
+2/9/2020,1584490331,1,Credit Card,2/11/2020,Saint Petersburg,FL,33702,United States,USD,45,,,0,0,0,0,45,,1.6,43.4,,,,online,online_cc
+2/8/2020,1574536198,1,Credit Card,2/11/2020,New Palestine,IN,46163-9028,United States,USD,12,,,0,0,0,0,12.84,,0.64,11.36,,,,online,online_cc
+2/8/2020,1574139938,1,Credit Card,2/11/2020,Inarajan,GU,96915-7612,United States,USD,25,,,0,0,0,0,25,,1,24,,,,online,online_cc
+2/8/2020,1574103544,1,Credit Card,2/10/2020,GAINESVILLE,TX,76240-6787,United States,USD,20,,,0,0,0,0,21.35,,0.89,19.11,,,,online,online_cc
+2/7/2020,1583566143,1,Credit Card,2/10/2020,Eureka,CA,95503-7091,United States,USD,125,,,0,0,0,0,134.69,,4.29,120.71,,,,online,online_cc
+2/7/2020,1573751896,1,Credit Card,2/7/2020,nooksack,WA,98276,United States,USD,8,,,0,0,0,0,8.68,,0.51,7.49,,,,online,online_cc
+2/6/2020,1573569492,2,Credit Card,2/10/2020,Monticello,IL,61856,United States,USD,85,,,0,0,0,0,90.31,,2.96,82.04,,1.53,40.97,online,online_cc
+2/6/2020,1583073557,1,Credit Card,2/10/2020,Calistoga,CA,94515,United States,USD,8,,,0,0,0,0,8.62,,0.51,7.49,,,,online,online_cc
+2/6/2020,1573474084,1,Credit Card,2/10/2020,PHILADELPHIA,PA,19118,United States,USD,25,,,0,0,0,0,27,,1.06,23.94,,,,online,online_cc
+2/6/2020,1582853847,1,Credit Card,2/10/2020,Oxford,MS,38655,United States,USD,15,,,0,0,0,0,15,,0.7,14.3,,,,online,online_cc
+2/5/2020,1582350271,1,Credit Card,2/7/2020,UNION,NJ,07083-7213,United States,USD,30,SAVE15NOW,% off,4.5,0,0,0,27.19,,1.07,24.43,,,,online,online_cc
+2/5/2020,1572664420,1,Credit Card,2/7/2020,COTTAGE GROVE,MN,55016-4729,United States,USD,18,,,0,0,0,0,18,,0.79,17.21,,,,online,online_cc
+2/4/2020,1581901333,3,Credit Card,2/6/2020,petersburg,AK,99833-2039,United States,USD,95,,,0,0,0,0,95,,3.1,91.9,,,,online,online_cc
+2/3/2020,1572067092,1,Credit Card,2/5/2020,portsmouth,NH,3801,United States,USD,45,,,0,0,0,0,45,,1.6,43.4,,,,online,online_cc
+2/3/2020,1571874480,2,Credit Card,2/5/2020,Johns Creek,GA,30097,United States,USD,36,,,0,0,0,0,36,,1.33,34.67,,,,online,online_cc
+2/3/2020,1571669476,1,Credit Card,2/5/2020,KENOSHA,WI,53140,United States,USD,18,,,0,0,0,0,18.99,,0.82,17.18,,,,online,online_cc
+2/2/2020,1571611800,1,Credit Card,2/4/2020,OCALA,FL,34473,United States,USD,45,SUPERBOWL,% off,6.75,0,0,0,38.25,,1.4,36.85,,,,online,online_cc
+2/2/2020,1571501024,1,Credit Card,2/3/2020,Lowell,MI,49331-9372,United States,USD,8,,,0,0,0,0,8.48,,0.5,7.5,,,,online,online_cc
+2/2/2020,1571206286,1,Credit Card,2/3/2020,NEWARK,CA,94560,United States,USD,12,,,0,0,0,0,13.17,,0.65,11.35,,,,online,online_cc
+2/1/2020,1571091298,1,Credit Card,2/3/2020,Rockwall,TX,75087,United States,USD,15,,,0,0,0,0,16.24,,0.74,14.26,,,,online,online_cc
+2/1/2020,1580275879,1,Credit Card,2/3/2020,Waldoboro,ME,4572,United States,USD,20,,,0,0,0,0,21.1,,0.88,19.12,,,,online,online_cc
+1/31/2020,1580214331,1,Credit Card,2/3/2020,New York,NY,10022,United States,USD,30,,,0,0,0,0,32.66,,1.23,28.77,,,,online,online_cc
+1/30/2020,1579779679,1,Credit Card,1/31/2020,South San Francisco,CA,94080-3450,United States,USD,15,,,0,0,0,0,16.47,,0.74,14.26,,,,online,online_cc
+1/30/2020,1570126176,1,Credit Card,1/31/2020,Madison,NJ,7940,United States,USD,40,,,0,0,0,0,42.65,,1.53,38.47,,,,online,online_cc
+1/28/2020,1568960660,1,Credit Card,1/30/2020,Farmington,UT,84025-2352,United States,USD,15,,,0,0,0,0,16.1,,0.73,14.27,,,,online,online_cc
+1/26/2020,1577882937,1,Credit Card,1/28/2020,Henrico,VA,23229,United States,USD,12,,,0,0,0,0,12.64,,0.63,11.37,,,,online,online_cc
+1/26/2020,1577860753,1,Credit Card,1/28/2020,Dallas,TX,75252,United States,USD,12,,,0,0,0,0,12.99,,0.64,11.36,,,,online,online_cc
+1/26/2020,1568202376,1,Credit Card,1/28/2020,Fairburn,GA,30213,United States,USD,28,,,0,0,0,0,28,,1.09,26.91,,,,online,online_cc
+1/25/2020,1567797790,1,Credit Card,1/28/2020,ANGOLA,IN,46703,United States,USD,40,,,0,0,0,0,42.8,,1.53,38.47,,,,online,online_cc
+1/24/2020,1576865303,1,Credit Card,1/27/2020,Hampstead,MD,21074,United States,USD,13,,,0,0,0,0,13.78,,0.66,12.34,,,,online,online_cc
+1/24/2020,1567198938,1,Credit Card,1/27/2020,ANGOLA,IN,46703,United States,USD,60,,,0,0,0,0,64.2,,2.18,57.82,,,,online,online_cc
+1/23/2020,1576582421,1,Credit Card,1/27/2020,ROGERSVILLE,AL,35652,United States,USD,18,,,0,0,0,0,19.44,,0.83,17.17,,,,online,online_cc
+1/23/2020,1576432753,1,Credit Card,1/27/2020,St Louis Park,MN,55416-4917,United States,USD,50,,,0,0,0,0,53.77,,1.86,48.14,,,,online,online_cc
+1/23/2020,1576345469,1,Credit Card,1/27/2020,Coatesville,PA,19320,United States,USD,38,,,0,0,0,0,40.28,,1.46,36.54,,,,online,online_cc
+1/23/2020,1566628314,1,Credit Card,1/27/2020,Pittsburgh,PA,15216-2504,United States,USD,22,,,0,0,0,0,23.54,,0.96,21.04,,,,online,online_cc
+1/22/2020,1576091869,1,Credit Card,1/24/2020,TILLAMOOK,OR,97141,United States,USD,30,,,0,0,0,0,30,,1.15,28.85,,,,online,online_cc
+1/22/2020,1566466814,1,Credit Card,1/24/2020,Dunwoody,GA,30338-6627,United States,USD,75,,,0,0,0,0,75,,2.5,72.5,,,,online,online_cc
+1/22/2020,1576013305,1,Credit Card,1/24/2020,Orlando,FL,32803,United States,USD,18,,,0,0,0,0,18,,0.79,17.21,,,,online,online_cc
+1/20/2020,1565550564,1,Credit Card,1/22/2020,BIXBY,OK,74008,United States,USD,35,,,0,0,0,0,37.95,,1.39,33.61,,,,online,online_cc
+1/19/2020,1565148452,1,Credit Card,1/21/2020,Wilmington,NC,28409,United States,USD,22,,,0,0,0,0,22,,0.91,21.09,,,,online,online_cc
+1/19/2020,1565133146,1,Credit Card,1/21/2020,Saint Louis,MO,63119,United States,USD,22,,,0,0,0,0,22,,0.91,21.09,,,,online,online_cc
+1/19/2020,1574528321,1,Credit Card,1/21/2020,San Antonio,TX,78258,United States,USD,35,,,0,0,0,0,37.9,,1.39,33.61,,,,online,online_cc
+1/18/2020,1564824494,1,Credit Card,1/21/2020,Coram,MT,59913-0103,United States,USD,25,,,0,0,0,0,25,,1,24,,,,online,online_cc
+1/18/2020,1574428523,1,Credit Card,1/21/2020,Ajo,AZ,85321-2423,United States,USD,30,,,0,0,0,0,32.58,,1.23,28.77,,,,online,online_cc
+1/18/2020,1564701994,1,Credit Card,1/21/2020,Camp Lejeune,NC,28547,United States,USD,40,,,0,0,0,0,40,,1.45,38.55,,,,online,online_cc
+1/18/2020,1564590906,1,Credit Card,1/21/2020,dunedin,FL,34698,United States,USD,15,,,0,0,0,0,15,,0.7,14.3,,,,online,online_cc
+1/17/2020,1564347960,1,Credit Card,1/21/2020,Sheridan,WY,82801,United States,USD,45,,,0,0,0,0,47.7,,1.68,43.32,,,,online,online_cc
+1/16/2020,1573585351,1,Credit Card,1/17/2020,Blackhawk,CA,94506,United States,USD,25,,,0,0,5,0,32.06,,1.21,28.79,,,,online,online_cc
+1/16/2020,1563811890,1,Credit Card,1/17/2020,North Vernon,IN,47265-6923,United States,USD,15,,,0,0,5,0,21.05,,0.88,19.12,,,,online,online_cc
+1/16/2020,1563569992,1,Credit Card,1/18/2020,Huntsville,AL,35803-1251,United States,USD,25,,,0,0,0,0,27,,1.06,23.94,,,,online,online_cc
+1/15/2020,1563511484,1,Credit Card,1/17/2020,Patchogue,NY,11772,United States,USD,15,,,0,0,0,0,16.3,,0.74,14.26,,,,online,online_cc
+1/15/2020,1573087059,1,Credit Card,1/17/2020,CONCORD,CA,94521,United States,USD,20,,,0,0,0,0,21.75,,0.9,19.1,,,,online,online_cc
+1/13/2020,1572303871,1,Credit Card,1/15/2020,WESTWOOD,NJ,7675,United States,USD,100,WEEKEND20,% off,20,0,0,0,85.3,,2.81,77.19,,,,online,online_cc
+1/12/2020,1562268306,1,Credit Card,1/14/2020,Gulfport,MS,39503-4115,United States,USD,18,,,0,0,0,0,18,,0.79,17.21,,,,online,online_cc
+1/12/2020,1571784593,2,Credit Card,1/14/2020,Bastrop,LA,71220,United States,USD,65,WEEKEND20,% off,13,0,0,0,52,,1.81,50.19,,,,online,online_cc
+1/12/2020,1571663377,1,Credit Card,1/14/2020,Littleton,CO,80123,United States,USD,30,,,0,0,0,0,31.2,,1.19,28.81,,,,online,online_cc
+1/11/2020,1571426401,1,Credit Card,1/13/2020,Ballwin,MO,63011,United States,USD,35,WEEKEND20,% off,7,0,0,0,28,,1.09,26.91,,,,online,online_cc
+1/11/2020,1561730240,1,Credit Card,1/11/2020,Takoma Park,MD,20913,United States,USD,40,WEEKEND20,% off,8,0,0,0,33.92,,1.27,30.73,,,,online,online_cc
+1/11/2020,1571145817,1,Credit Card,1/13/2020,Nichols Hills,OK,73116,United States,USD,100,WEEKEND20,% off,20,0,0,0,86.8,,2.85,77.15,,,,online,online_cc
+1/10/2020,1561213666,1,Credit Card,1/14/2020,SANTA MONICA,CA,90405,United States,USD,35,WEEKEND20,% off,7,0,0,0,30.87,,1.18,26.82,,,,online,online_cc
+1/10/2020,1570799867,5,Credit Card,1/13/2020,KNOXVILLE,TN,37921-6869,United States,USD,104,WEEKEND20,% off,20.8,0,0,0,83.2,,2.75,80.45,,,,online,online_cc
+1/9/2020,1560927828,1,Credit Card,1/10/2020,Franklin,TN,37067,United States,USD,25,,,0,0,0,0,25,,1,24,,,,online,online_cc
+1/9/2020,1570461151,1,Credit Card,1/10/2020,Holt,MI,48842,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+1/9/2020,1560579414,1,Credit Card,1/9/2020,East Providence,RI,2914,United States,USD,18,,,0,0,0,0,19.26,,0.83,17.17,,,,online,online_cc
+1/7/2020,1559902766,1,Credit Card,1/9/2020,Myrtle Beach,SC,29575-5803,United States,USD,28,,,0,0,0,0,30.24,,1.16,26.84,,,,online,online_cc
+1/7/2020,1569502233,1,Credit Card,1/9/2020,West Islip,NY,11795,United States,USD,18,,,0,0,0,0,19.56,,0.84,17.16,,,,online,online_cc
+1/7/2020,1569464217,1,Credit Card,1/9/2020,New Orleans,LA,70117,United States,USD,14,,,0,0,0,0,14,,0.67,13.33,,,,online,online_cc
+1/7/2020,1569463591,1,Credit Card,1/9/2020,KNOXVILLE,TN,37921-6869,United States,USD,35,,,0,0,0,0,35,,1.3,33.7,,,,online,online_cc
+1/7/2020,1559711860,1,Credit Card,1/8/2020,Pittsburgh,PA,15235,United States,USD,15,,,0,0,0,0,16.05,,0.73,14.27,,,,online,online_cc
+1/6/2020,1559671574,1,Credit Card,1/8/2020,Hugo,MN,55038,United States,USD,50,NEWYEAR30,% off,15,0,0,0,37.5,,1.38,33.62,,,,online,online_cc
+1/6/2020,1568933163,1,Credit Card,1/8/2020,San Diego,CA,92105,United States,USD,8,,,0,0,0,0,8.62,,0.51,7.49,,,,online,online_cc
+1/6/2020,1568925313,1,Credit Card,1/8/2020,Champaign,IL,61821,United States,USD,22,,,0,0,0,0,22,,0.91,21.09,,,,online,online_cc
+1/6/2020,1559302812,1,Credit Card,1/8/2020,Assonet,MA,02702-1706,United States,USD,28,NEWYEAR30,% off,8.4,0,0,0,20.83,,0.87,18.73,,,,online,online_cc
+1/5/2020,1568860077,2,Credit Card,1/7/2020,Silver Spring,MD,20906,United States,USD,47,NEWYEAR30,% off,14.1,0,0,0,34.88,,1.3,31.6,,,,online,online_cc
+1/5/2020,1559100758,1,Credit Card,1/7/2020,Henderson,NV,89074,United States,USD,25,NEWYEAR30,% off,7.5,0,0,0,18.97,,0.82,16.68,,,,online,online_cc
+1/5/2020,1559077488,1,Credit Card,1/7/2020,Reston,VA,20194,United States,USD,18,,,0,0,0,0,19.08,,0.82,17.18,,,,online,online_cc
+1/5/2020,1558942372,1,Credit Card,1/7/2020,Carrollton,GA,30116,United States,USD,12,,,0,0,0,0,12,,0.61,11.39,,,,online,online_cc
+1/5/2020,1568519255,1,Credit Card,1/7/2020,Fort Pierce,FL,34950-8136,United States,USD,10,,,0,0,0,0,10,,0.55,9.45,,,,online,online_cc
+1/5/2020,1568493735,1,Credit Card,1/7/2020,Rockaway,NJ,7866,United States,USD,30,,,0,0,0,0,31.99,,1.21,28.79,,,,online,online_cc
+1/5/2020,1558892832,1,Credit Card,1/7/2020,Winfield,IA,52659,United States,USD,20,,,0,0,0,0,21.2,,0.89,19.11,,,,online,online_cc
+1/4/2020,1558782242,1,Credit Card,1/6/2020,DuPont,WA,98327,United States,USD,13,,,0,0,0,0,14.21,,0.68,12.32,,,,online,online_cc
+1/4/2020,1568235811,1,Credit Card,1/6/2020,La Crosse,WI,54601,United States,USD,12,,,0,0,0,0,12.66,,0.63,11.37,,,,online,online_cc
+1/3/2020,1558371028,1,Credit Card,1/6/2020,Portland,OR,97203,United States,USD,75,,,0,0,0,0,75,,2.5,72.5,,,,online,online_cc
+1/3/2020,1567712871,1,Credit Card,1/6/2020,Corryton,TN,37721,United States,USD,10,,,0,0,0,0,10,,0.55,9.45,,,,online,online_cc
+1/2/2020,1567401621,1,Credit Card,1/6/2020,austin,TX,78754,United States,USD,25,,,0,0,0,0,27.06,,1.06,23.94,,,,online,online_cc
+1/2/2020,1557762546,1,Credit Card,1/6/2020,Oakland,CA,94619-1763,United States,USD,12,,,0,0,0,0,13.11,,0.64,11.36,,,,online,online_cc
+1/2/2020,1557630290,2,Credit Card,1/6/2020,Hampstead,MD,21074,United States,USD,22,,,0,0,0,0,23.32,,0.95,21.05,,,,online,online_cc
+1/2/2020,1557532352,1,Credit Card,1/3/2020,WINTERSET,IA,50273,United States,USD,30,,,0,0,0,0,31.8,,1.2,28.8,,,,online,online_cc
+1/1/2020,1566975049,1,Credit Card,1/3/2020,Buford,GA,30518,United States,USD,18,,,0,0,0,0,18,,0.79,17.21,,,,online,online_cc
+1/1/2020,1557265346,1,Credit Card,1/3/2020,Chicago,IL,60646,United States,USD,40,10OFFNOW,% off,4,0,0,0,36,,1.33,34.67,,,,online,online_cc
+1/1/2020,1557259858,1,Credit Card,1/3/2020,Valparaiso,IN,46385,United States,USD,18,,,0,0,0,0,19.26,,0.83,17.17,,,,online,online_cc
